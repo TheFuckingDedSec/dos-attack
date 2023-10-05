@@ -15,7 +15,7 @@
 
 # preparing
 ```bash
-git clone https://github.com/Swag666baby/dos-attack
+git clone https://github.com/TheFuckingDedSec/dos-attack
 cd dos-attack
 tsc
 ```
